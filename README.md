@@ -14,7 +14,116 @@
 🎓 &nbsp;I recently completed my **M.S. in Computer Science at Northeastern University (Silicon Valley)**.  
 🤖 &nbsp;My work spans **Agentic & Generative AI**, ML evaluation, and real-world system design.  
 ♿ &nbsp;I specialize in **accessibility-first engineering**, shipping tools used by blind & low-vision users.  
-📱 &nbsp;I enjoy building **scalable web & mobile platforms** that move from research → production.  
+📱 &nbsp;I enjoy building **scalable web & mobile platforms** that move from research → production.
+
+## 🛠 Skills & Technologies
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+
+---
+
+### **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+
+- Android (Java, MVVM, Firebase)
+- iOS (Swift / SwiftUI)
+- Flutter (cross-platform)
+- Offline-first design, push notifications
+
+---
+
+### **Web & Backend Development**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+
+- React.js, Node.js
+- REST API design & integration
+- FastAPI, Flask
+- Client–server performance optimization
+
+---
+
+### **AI / ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+
+- Classical ML (Logistic Regression, Naïve Bayes, SVM)
+- Deep Learning (CNNs, Vision–Language Models)
+- Prompt engineering & evaluation
+- Model calibration, bias analysis, error inspection
+- Hugging Face Transformers, OpenAI APIs
+
+---
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
+
+- PostgreSQL
+- MongoDB
+- Firebase Realtime Database
+- SQLite
+
+---
+
+### **DevOps & Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+- Git & GitHub
+- Docker
+- CI/CD pipelines (GitHub Actions)
+- Monitoring, debugging, profiling
+
+---
+
+### **Accessibility & UX**
+- WCAG 2.0 / 2.1 / 2.2 (AA+)
+- NVDA & VoiceOver testing
+- Keyboard navigation & screen-reader support
+- Usability testing with blind & low-vision users
+
+---
+
+### **Algorithms & CS Fundamentals**
+- Data structures
+- Algorithm design
+- Graph algorithms
+- Dynamic programming
+- Complexity analysis
+
+---
+
+### **Testing & QA**
+- Unit testing
+- Integration testing
+- Regression testing
+- Automated test scripts
+- Release validation & QA ownership
+
+---
+
+### **Other**
+- Shell scripting
+- Debugging & profiling
+- BIM / Revit modeling (legacy domain expertise)
 
 ---
 
