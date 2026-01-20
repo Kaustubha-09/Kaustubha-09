@@ -187,7 +187,12 @@
 </a>
 </p>
 
+---
+
 <img src="./assets/Night-Coding.gif" align="right" width="300"/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
