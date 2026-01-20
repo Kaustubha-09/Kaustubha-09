@@ -248,5 +248,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubha-09&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubha-09&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&days=7" alt="GitHub Activity Graph"/>
 </div>
