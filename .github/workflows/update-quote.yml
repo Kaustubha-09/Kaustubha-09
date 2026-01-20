@@ -18,37 +18,43 @@ jobs:
 
       - name: Fetch and update quote
         run: |
-          # Fetch random quote from API
-          QUOTE_RESPONSE=$(curl -s "https://api.quotable.io/random")
-          QUOTE_CONTENT=$(echo "$QUOTE_RESPONSE" | jq -r '.content')
-          QUOTE_AUTHOR=$(echo "$QUOTE_RESPONSE" | jq -r '.author')
-          FULL_QUOTE="${QUOTE_CONTENT} — ${QUOTE_AUTHOR}"
-          
-          echo "Fetched quote: $FULL_QUOTE"
-          
-          # Write quote to temporary file to avoid heredoc/special character issues
-          echo "$FULL_QUOTE" > /tmp/quote.txt
-          
-          # Use Python for robust replacement that handles special characters
+          # Use Python to fetch quote and update README in one go
           python3 << 'PYTHON_SCRIPT'
           import sys
+          import json
+          import urllib.request
+          import urllib.error
           
-          # Read quote from temporary file
+          # Fetch random quote from API
           try:
-              with open('/tmp/quote.txt', 'r', encoding='utf-8') as f:
-                  quote = f.read().strip()
-          except Exception as e:
-              print(f"Error reading quote file: {e}")
+              with urllib.request.urlopen('https://api.quotable.io/random') as response:
+                  quote_data = json.loads(response.read().decode('utf-8'))
+                  quote_content = quote_data.get('content', '')
+                  quote_author = quote_data.get('author', '')
+                  
+                  if not quote_content or not quote_author:
+                      print("Error: Invalid quote data received from API")
+                      sys.exit(1)
+                  
+                  full_quote = f"{quote_content} — {quote_author}"
+                  print(f"Fetched quote: {full_quote}")
+          except urllib.error.URLError as e:
+              print(f"Error fetching quote from API: {e}")
               sys.exit(1)
-          
-          if not quote:
-              print("Error: Quote is empty")
+          except json.JSONDecodeError as e:
+              print(f"Error parsing JSON response: {e}")
+              sys.exit(1)
+          except Exception as e:
+              print(f"Unexpected error fetching quote: {e}")
               sys.exit(1)
           
           # Read README.md
           try:
               with open('README.md', 'r', encoding='utf-8') as f:
                   content = f.read()
+          except FileNotFoundError:
+              print("Error: README.md not found")
+              sys.exit(1)
           except Exception as e:
               print(f"Error reading README.md: {e}")
               sys.exit(1)
@@ -58,7 +64,7 @@ jobs:
               print("Error: Placeholder {{QUOTE_OF_THE_DAY}} not found in README.md")
               sys.exit(1)
           
-          content = content.replace('{{QUOTE_OF_THE_DAY}}', quote)
+          content = content.replace('{{QUOTE_OF_THE_DAY}}', full_quote)
           
           # Write updated README.md
           try:
@@ -71,10 +77,7 @@ jobs:
           print("README.md updated successfully")
           PYTHON_SCRIPT
           
-          # Clean up temporary file
-          rm -f /tmp/quote.txt
-          
-          # Verify the replacement worked
+          # Final verification
           if grep -q "{{QUOTE_OF_THE_DAY}}" README.md; then
             echo "Error: Placeholder still found in README.md after replacement"
             exit 1
