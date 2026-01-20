@@ -189,4 +189,4 @@
 
 <img src="./assets/Night-Coding.gif" align="right" width="300"/>
 
-> *“Build systems that work for everyone — not just the average user.”*
+> 💬 *{{QUOTE_OF_THE_DAY}}*
