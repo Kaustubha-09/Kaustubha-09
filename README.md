@@ -189,4 +189,5 @@
 
 <img src="./assets/Night-Coding.gif" align="right" width="300"/>
 
-> 💬 *{{QUOTE_OF_THE_DAY}}*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
