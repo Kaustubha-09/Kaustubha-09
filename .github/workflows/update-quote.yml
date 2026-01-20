@@ -26,14 +26,32 @@ jobs:
           
           echo "Fetched quote: $FULL_QUOTE"
           
+          # Write quote to temporary file to avoid heredoc/special character issues
+          echo "$FULL_QUOTE" > /tmp/quote.txt
+          
           # Use Python for robust replacement that handles special characters
-          python3 << EOF
+          python3 << 'PYTHON_SCRIPT'
           import sys
           
-          quote = """${FULL_QUOTE}"""
+          # Read quote from temporary file
+          try:
+              with open('/tmp/quote.txt', 'r', encoding='utf-8') as f:
+                  quote = f.read().strip()
+          except Exception as e:
+              print(f"Error reading quote file: {e}")
+              sys.exit(1)
           
-          with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
+          if not quote:
+              print("Error: Quote is empty")
+              sys.exit(1)
+          
+          # Read README.md
+          try:
+              with open('README.md', 'r', encoding='utf-8') as f:
+                  content = f.read()
+          except Exception as e:
+              print(f"Error reading README.md: {e}")
+              sys.exit(1)
           
           # Replace the placeholder with the actual quote
           if '{{QUOTE_OF_THE_DAY}}' not in content:
@@ -42,11 +60,19 @@ jobs:
           
           content = content.replace('{{QUOTE_OF_THE_DAY}}', quote)
           
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(content)
+          # Write updated README.md
+          try:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(content)
+          except Exception as e:
+              print(f"Error writing README.md: {e}")
+              sys.exit(1)
           
           print("README.md updated successfully")
-          EOF
+          PYTHON_SCRIPT
+          
+          # Clean up temporary file
+          rm -f /tmp/quote.txt
           
           # Verify the replacement worked
           if grep -q "{{QUOTE_OF_THE_DAY}}" README.md; then
