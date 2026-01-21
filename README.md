@@ -50,15 +50,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
-<div align="left">
-  <ul>
-    <li>Android (Java, MVVM, Firebase)</li>
-    <li>iOS (Swift / SwiftUI)</li>
-    <li>Flutter (cross-platform)</li>
-    <li>Offline-first design, push notifications</li>
-  </ul>
-</div>
-
 ### 🌐 Web & Backend
 
 <div align="center">
@@ -66,15 +57,6 @@
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</div>
-
-<div align="left">
-  <ul>
-    <li>React.js, Node.js</li>
-    <li>REST API design & integration</li>
-    <li>FastAPI, Flask</li>
-    <li>Client–server performance optimization</li>
-  </ul>
 </div>
 
 ### 🤖 AI / ML & Data
@@ -87,31 +69,12 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
 
-<div align="left">
-  <ul>
-    <li>Classical ML (LogReg, Naïve Bayes, SVM)</li>
-    <li>Deep Learning (CNNs, Vision–Language Models)</li>
-    <li>Prompt engineering & evaluation</li>
-    <li>Model calibration, bias analysis, error inspection</li>
-    <li>Hugging Face Transformers, OpenAI APIs</li>
-  </ul>
-</div>
-
 ### 🗄️ Databases
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</div>
-
-<div align="left">
-  <ul>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>Firebase Realtime Database</li>
-    <li>SQLite</li>
-  </ul>
 </div>
 
 ### 🚀 DevOps & Tooling
@@ -122,24 +85,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-<div align="left">
-  <ul>
-    <li>Git & GitHub</li>
-    <li>Docker</li>
-    <li>CI/CD pipelines (GitHub Actions)</li>
-    <li>Monitoring, debugging, profiling</li>
-  </ul>
-</div>
-
 ### ♿ Accessibility & UX
 
-<div align="left">
-  <ul>
-    <li>WCAG 2.0 / 2.1 / 2.2 (AA+)</li>
-    <li>NVDA & VoiceOver testing</li>
-    <li>Keyboard navigation & screen-reader support</li>
-    <li>Usability testing with blind & low-vision users</li>
-  </ul>
+<div align="center">
+  <img src="https://img.shields.io/badge/WCAG-2.1-AA+-brightgreen?style=for-the-badge" alt="WCAG 2.1 AA+"/>
+  <img src="https://img.shields.io/badge/Accessibility-First-important?style=for-the-badge" alt="Accessibility First"/>
 </div>
 
 ---
