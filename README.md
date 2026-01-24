@@ -142,25 +142,32 @@
 
 <div align="left">
 
-### 🔹 Semantic Diff Prompting for Video Understanding
-- Prompt-level method for VLMs
+### 🔹 [SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)
+- Prompt-level method for Vision-Language Models
 - **56–68% token reduction**
 - Improved action-focused descriptions
+- `Python` • `Research`
 
-### 🔹 YouDescribeX
-- AI accessibility platform (Web, iOS, Android)
-- Used by blind & low-vision users
-- Research → production transition
-
-### 🔹 Echolin.AI
-- Deepfake image detection (CNN + ensembles)
-- Grad-CAM interpretability
+### 🔹 [Echolin.ai](https://github.com/Kaustubha-09/Echolin.ai)
+- Deepfake image detection using CNN + ensemble models
+- Grad-CAM interpretability for model explainability
 - **120+ GitHub stars**
+- `TypeScript` • `MIT License`
 
-### 🔹 RapidTriage AI
-- Emergency care prioritization
-- **+0.12 macro-F1**
-- Bias-aware evaluation
+### 🔹 [RapidTriage](https://github.com/Kaustubha-09/RapidTriage)
+- Emergency care prioritization system
+- **+0.12 macro-F1** improvement
+- Bias-aware evaluation and model calibration
+- `Go` • `ML/AI`
+
+### 🔹 [Spambase](https://github.com/Kaustubha-09/Spambase)
+- Email spam detection system
+- Machine learning classification models
+- `Python` • `MIT License`
+
+### 🔹 [NEUQuest](https://github.com/Kaustubha-09/NEUQuest)
+- Northeastern University related application
+- `Java` • `Mobile/Web`
 
 </div>
 
