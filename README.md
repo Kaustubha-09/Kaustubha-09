@@ -164,9 +164,11 @@
 - `React Native` • `Go` • `OpenAI/Claude/Gemini` • `TypeScript` • `MIT License`
 
 ### 🔹 [Spambase](https://github.com/Kaustubha-09/Spambase)
-- Email spam detection system
-- Machine learning classification models
-- `Python` • `MIT License`
+- **NLP-based spam email detector** using Multinomial Naive Bayes
+- **97% precision, 95% recall** on test dataset (1,035 emails)
+- Text preprocessing, Bag of Words feature extraction, comprehensive evaluation metrics
+- **CS5002: Discrete Structures** project at Northeastern University
+- `Python` • `scikit-learn` • `NLTK` • `Pandas` • `NumPy` • `MIT License`
 
 ### 🔹 [NEUQuest](https://github.com/Kaustubha-09/NEUQuest)
 - Northeastern University related application
