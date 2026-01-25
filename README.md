@@ -156,10 +156,12 @@
 - `TypeScript` • `MIT License`
 
 ### 🔹 [RapidTriage](https://github.com/Kaustubha-09/RapidTriage)
-- Emergency care prioritization system
-- **+0.12 macro-F1** improvement
-- Bias-aware evaluation and model calibration
-- `Go` • `ML/AI`
+- **Cross-platform medical triage app** (React Native + Go backend)
+- Hybrid AI: LLM-driven symptom parsing + clinically validated triage frameworks (MTS/ESI)
+- **85-92% accuracy**, ~3.7s response time for real-time emergency assessment
+- Hospital discovery with GPS, voice input, and interactive maps
+- **CS 5100: Artificial Intelligence** project at Northeastern University
+- `React Native` • `Go` • `OpenAI/Claude/Gemini` • `TypeScript` • `MIT License`
 
 ### 🔹 [Spambase](https://github.com/Kaustubha-09/Spambase)
 - Email spam detection system
