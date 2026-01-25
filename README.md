@@ -143,10 +143,11 @@
 <div align="left">
 
 ### 🔹 [SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)
-- Prompt-level method for Vision-Language Models
-- **56–68% token reduction**
-- Improved action-focused descriptions
-- `Python` • `Research`
+- **Final Project for CS6180: Generative AI**
+- Semantic diff prompting vs baseline frame-by-frame video understanding
+- **50–70% token reduction** while preserving temporal information
+- Cost-efficient approach using GPT-4o/GPT-4o-mini vision models
+- `Python` • `OpenAI API` • `Computer Vision` • `Research`
 
 ### 🔹 [Echolin.ai](https://github.com/Kaustubha-09/Echolin.ai)
 - Deepfake image detection using CNN + ensemble models
