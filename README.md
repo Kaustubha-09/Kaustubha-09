@@ -171,8 +171,11 @@
 - `Python` • `scikit-learn` • `NLTK` • `Pandas` • `NumPy` • `MIT License`
 
 ### 🔹 [NEUQuest](https://github.com/Kaustubha-09/NEUQuest)
-- Northeastern University related application
-- `Java` • `Mobile/Web`
+- **Budget travel & dining app** for Northeastern University students
+- Event discovery, personalized trip planning with budget management, collaborative planning
+- Firebase Authentication, Realtime Database, interest-based recommendations, admin moderation
+- **Mobile Application Development** (NUMAD24Su) project - Group 9 collaboration
+- `Java` • `Android` • `Firebase` • `Retrofit` • `Room Database` • `RxJava` • `MVC Architecture`
 
 </div>
 
