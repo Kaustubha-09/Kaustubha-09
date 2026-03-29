@@ -1,221 +1,72 @@
-![Kaustubha Eluri Banner](./assets/GitHub.jpeg)
-
 <div align="center">
-  <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="50"/>
-  <h2>Hey there! I'm Kaustubha</h2>
-  <img src="https://komarev.com/ghpvc/?username=Kaustubha-09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Kaustubha profile views" />
-</div>
-
-<div align="center">
-  <h3>🤖 Agentic AI & Software Engineer</h3>
-  <p>Building production-grade, accessibility-first systems across AI, web, and mobile platforms</p>
+  <h2>Kaustubha Eluri</h2>
+  <p><strong>Agentic AI & Software Engineer</strong> · M.S. Computer Science, Northeastern University (Silicon Valley) · U.S. Citizen</p>
+  <a href="https://linkedin.com/in/kaustubha-ve"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:kaustubha.ev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Kaustubha-09&label=Profile+views&color=0e75b6&style=flat-square"/>
 </div>
 
 ---
 
-## 👨🏻‍💻 About Me
+I build AI-powered systems that work for everyone — including the 2.2 billion people with visual impairments that most engineers never design for. My background is unusual: I started as an architectural engineer, transitioned into CS, and that cross-domain perspective shapes how I approach system design. My work spans agentic AI, accessibility-first mobile and web platforms, and ML systems that go from research to production.
 
-<div align="left">
-
-💡 I build **production-grade, human-centered systems** at the intersection of AI, accessibility, and product engineering.  
-🎓 Recently completed my **M.S. in Computer Science at Northeastern University (Silicon Valley)**.  
-🤖 Work spans **Agentic & Generative AI**, ML evaluation, and real-world system design.  
-♿ Specialize in **accessibility-first engineering**, shipping tools used by blind & low-vision users.  
-📱 Enjoy building **scalable web & mobile platforms** that move from research → production.
-
-</div>
+[Featured on Northeastern Silicon Valley](https://siliconvalley.northeastern.edu/kaustubha-eluri-aspiring-product-manager/)
 
 ---
 
-## 🛠 Skills & Technologies
+## Experience
 
-### 💻 Programming Languages
+**Lead Software Engineer (AI/ML & Accessibility) — Smith-Kettlewell Eye Research Institute** *(San Francisco, CA | Jul–Jan 2026)*
+Led end-to-end engineering for [YouDescribeX](https://ydx.youdescribe.org/home), an AI-assisted audio description platform for blind & low-vision users. Shipped bi-weekly releases to 40+ users at <1% crash rate. Built Infobot (86% top-3 hit rate on 300-question benchmark), improved performance 15%, retention 20%, reduced task time 28% via usability studies, and achieved WCAG AA+ compliance. Promoted from Research Assistant.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</div>
+**Lead AI Engineer, Data & Compliance — Evenness, Inc.** *(Atlanta, GA | May–Feb 2026)*
+Built RAG-backed agentic workflows covering 100% of WCAG 2.1 + multi-standard (EEA, ADA, AODA). Cut analysis runtime 60–70%, reduced audit cycle time 15→9 min, saved ~120 hrs/quarter. Maintained 99.9% uptime and p95 latency <300ms across 4 production microservices. Promoted from Agentic AI Engineer Intern.
 
-### 📱 Mobile Development
+**Teaching Assistant — CS 5520 Mobile Application Development, Northeastern University** *(San Jose, CA | Sep 2024–Aug 2025)*
+Mentored 30+ graduate students on Android (Java, MVVM, Firebase). Built Python auto-graders that cut grading time 40%. Redesigned 2 major assignments with faculty, raising completion rates 12 pts. 90% of students shipped fully functional final projects.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
-
-### 🌐 Web & Backend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</div>
-
-### 🤖 AI / ML & Data
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
-
-### 🚀 DevOps & Tooling
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-</div>
-
-### ♿ Accessibility & UX
-
-<div align="center">
-  <img src="https://img.shields.io/badge/WCAG-2.1-AA+-brightgreen?style=for-the-badge" alt="WCAG 2.1 AA+"/>
-  <img src="https://img.shields.io/badge/Accessibility-First-important?style=for-the-badge" alt="Accessibility First"/>
-</div>
+**Technical Product Development Intern — Folio.Works** *(New York, NY | Dec 2023–Jul 2024)*
+Shipped 6 production releases for a Flutter-based iOS/Android app (200+ fellows). Improved startup time ~400ms, cut crash rate 35%, drove 65% MAU adoption within 30 days of each release. Built 60+ test cases, growing regression coverage to 80%.
 
 ---
 
-## 💼 Professional Experience
+## Projects
 
-### 🏢 Smith-Kettlewell Eye Research Institute — San Francisco, CA
+**[RapidTriage](https://github.com/Kaustubha-09/RapidTriage)** — Emergency triage shouldn't require typing. Cross-platform medical app with voice input, GPS hospital discovery, and hybrid AI (LLM symptom parsing + MTS/ESI clinical frameworks). Assesses emergencies in ~3.7s at 85–92% accuracy. Recognized as a top project at course demo day. `React Native` · `Go` · `OpenAI/Claude/Gemini`
 
-**Lead Software Engineer (AI/ML, Web & Mobile) — YouDescribeX** *(Promotion)*  
-*Sep 2025 – Dec 2025*
+**[Echolin.ai](https://github.com/Kaustubha-09/Echolin.ai)** — Deepfake detection is only useful if it's explainable. CNN + ensemble classifier with Grad-CAM interpretability so users understand *why* an image was flagged. **120+ GitHub stars** within two months of open-sourcing. `Python` · `FastAPI` · `TypeScript`
 
-- Led end-to-end engineering across AI/ML, web, and mobile
-- Owned architecture, deployment, and roadmap execution
-- Delivered bi-weekly releases with **<1% crash rate**
-- Scaled platform to **40+ blind & low-vision users**
+**[SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)** — Frame-by-frame video prompting is redundant. Designed a semantic diff prompting framework for Vision-Language Models that captures temporal change instead of restating static frames. **56–68% token reduction** with improved action-focused coverage vs. baseline. `Python` · `GPT-4o`
 
-**Research Assistant — YouDescribeX**  
-*Jul 2025 – Dec 2025*
+**[Husky Mingle](https://github.com/Kaustubha-09/HuskyMingle)** — Campus networking shouldn't feel like LinkedIn. Built a mobile-first platform for project groups and research communities with Firebase auth, real-time chat, and profile-based matching. Reduced time-to-first-connection from 4.2 → 1.6 days. **Won campus hackathon track for student networking innovation.** `Android` · `Firebase`
 
-- Built AI-assisted audio description workflows
-- Improved **15% performance** and **20% retention**
-- Built Infobot (86% top-3 hit rate)
-- Achieved **WCAG AA+ compliance**
+**[Notification Urgency Classifier](https://github.com/Kaustubha-09/NotificationClassifier)** — Built an NLP system to classify notifications into Eisenhower Matrix priority levels using TF-IDF + Multinomial Naive Bayes. Improved accuracy from 0.41 → 0.93 over a rule-based baseline. Added DistilBART summarization for condensed previews. `Python` · `scikit-learn` · `HuggingFace`
+
+**[Spambase](https://github.com/Kaustubha-09/Spambase)** — NLP spam classifier on 1,035 emails. 97% precision, 95% recall. `Python` · `scikit-learn` · `NLTK`
 
 ---
 
-### 🏢 Evenness, Inc. — Atlanta, GA
+## Research & Leadership
 
-**Lead — Data & Compliance Squad** *(Promotion)*  
-*Sep 2025 – Dec 2025*
+**[NEURAI Research Lab](https://neurai.sites.northeastern.edu/our-team/kaustubha-eluri/) — Founding Researcher** *(Mar–Dec 2025)*
+Interpretable and responsible ML research. Co-authored a proposal that secured $2k in compute credits. Built baseline pipelines adopted by new lab members.
 
-- Led AI-powered accessibility compliance platform
-- 100% WCAG 2.1 coverage
-- Reduced analysis runtime **60–70%**
+**APMC (Aspiring Product Managers Club) — President** *(Jan 2024–Dec 2025)*
+Led student org for PM interview prep, case practice, and mentoring. Received student leadership award 2025.
 
-**Agentic AI Engineer Intern**  
-*Jun 2025 – Dec 2025*
-
-- Built RAG-backed agent workflows
-- 99.9% uptime across 4 production services
-- Saved ~120 hrs/quarter via automation
+**AI/Data Club — Core Organizer** | **Adobe Creative Campus Club — VP** | **Northeastern Student Ambassador**
 
 ---
 
-## 📌 Featured Projects
+## Stack
 
-<div align="left">
-
-### 🔹 [SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)
-- **Final Project for CS6180: Generative AI**
-- Semantic diff prompting vs baseline frame-by-frame video understanding
-- **50–70% token reduction** while preserving temporal information
-- Cost-efficient approach using GPT-4o/GPT-4o-mini vision models
-- `Python` • `OpenAI API` • `Computer Vision` • `Research`
-
-### 🔹 [Echolin.ai](https://github.com/Kaustubha-09/Echolin.ai)
-- Deepfake image detection using CNN + ensemble models
-- Grad-CAM interpretability for model explainability
-- **120+ GitHub stars**
-- `TypeScript` • `MIT License`
-
-### 🔹 [RapidTriage](https://github.com/Kaustubha-09/RapidTriage)
-- **Cross-platform medical triage app** (React Native + Go backend)
-- Hybrid AI: LLM-driven symptom parsing + clinically validated triage frameworks (MTS/ESI)
-- **85-92% accuracy**, ~3.7s response time for real-time emergency assessment
-- Hospital discovery with GPS, voice input, and interactive maps
-- **CS 5100: Artificial Intelligence** project at Northeastern University
-- `React Native` • `Go` • `OpenAI/Claude/Gemini` • `TypeScript` • `MIT License`
-
-### 🔹 [Spambase](https://github.com/Kaustubha-09/Spambase)
-- **NLP-based spam email detector** using Multinomial Naive Bayes
-- **97% precision, 95% recall** on test dataset (1,035 emails)
-- Text preprocessing, Bag of Words feature extraction, comprehensive evaluation metrics
-- **CS5002: Discrete Structures** project at Northeastern University
-- `Python` • `scikit-learn` • `NLTK` • `Pandas` • `NumPy` • `MIT License`
-
-### 🔹 [NEUQuest](https://github.com/Kaustubha-09/NEUQuest)
-- **Budget travel & dining app** for Northeastern University students
-- Event discovery, personalized trip planning with budget management, collaborative planning
-- Firebase Authentication, Realtime Database, interest-based recommendations, admin moderation
-- **Mobile Application Development** (NUMAD24Su) project - Group 9 collaboration
-- `Java` • `Android` • `Firebase` • `Retrofit` • `Room Database` • `RxJava` • `MVC Architecture`
-
-</div>
+`Python` `Java` `JavaScript` `TypeScript` `Swift` `Dart` · `React` `React Native` `Flutter` `FastAPI` `Node.js` · `PyTorch` `TensorFlow` `HuggingFace` `OpenAI` · `PostgreSQL` `MongoDB` `Firebase` · `Docker` `GitHub Actions` `GCP` · `WCAG AA+` `NVDA/VoiceOver`
 
 ---
-
-## ⚙️ GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubha-09&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubha-09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/kaustubha-ve">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kaustubha.ev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Kaustubha-09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/Night-Coding.gif" width="300"/>
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubha-09&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&days=7" alt="GitHub Activity Graph"/>
 </div>
