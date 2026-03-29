@@ -70,3 +70,7 @@ Led student org for PM interview prep, case practice, and mentoring. Received st
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubha-09&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubha-09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubha-09&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+</div>
