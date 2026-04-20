@@ -16,6 +16,16 @@ I build AI-powered systems that work for everyone — including the 2.2 billion 
 
 ---
 
+## Awards
+
+- **Laurel & Scroll 100 Award**, Northeastern University *(Apr. 2026)* — Selected among top graduating students for academic achievement, leadership, and impact.
+- **Silicon Valley Leadership Legacy Award**, Northeastern University *(Apr. 2026)* — Recognized for leadership and contributions to the Northeastern Silicon Valley community.
+- **Khoury College Recognition (Nominee)**, Northeastern University *(2026)* — Nominated for academic excellence and contributions to Khoury College of Computer Sciences.
+- **Top Project Recognition** *(2025)* — Awarded for *RapidTriage AI* for technical depth and evaluation rigor.
+- **Hackathon Recognition – Student Networking Innovation** *(2024)* — Won for *Husky Mingle*, a mobile-first campus collaboration platform.
+
+---
+
 ## Experience
 
 **Lead Software Engineer (AI/ML & Accessibility) — Smith-Kettlewell Eye Research Institute** *(San Francisco, CA | Jul–Jan 2026)*
@@ -30,6 +40,9 @@ Mentored 30+ graduate students on Android (Java, MVVM, Firebase). Built Python a
 **Technical Product Development Intern — Folio.Works** *(New York, NY | Dec 2023–Jul 2024)*
 Shipped 6 production releases for a Flutter-based iOS/Android app (200+ fellows). Improved startup time ~400ms, cut crash rate 35%, drove 65% MAU adoption within 30 days of each release. Built 60+ test cases, growing regression coverage to 80%.
 
+**Graduate BIM Engineer — bimgrafX** *(Phoenix, AZ | Nov 2020–Mar 2022)*
+Delivered 12+ Building Information Models using Revit, coordinating multidisciplinary inputs at 99% design accuracy. Promoted from intern to full-time within 12 months.
+
 ---
 
 ## Projects
@@ -43,6 +56,12 @@ Shipped 6 production releases for a Flutter-based iOS/Android app (200+ fellows)
 **[Husky Mingle](https://github.com/Kaustubha-09/HuskyMingle)** — Campus networking shouldn't feel like LinkedIn. Built a mobile-first platform for project groups and research communities with Firebase auth, real-time chat, and profile-based matching. Reduced time-to-first-connection from 4.2 → 1.6 days. **Won campus hackathon track for student networking innovation.** `Android` · `Firebase`
 
 **[Notification Urgency Classifier](https://github.com/Kaustubha-09/NotificationClassifier)** — Built an NLP system to classify notifications into Eisenhower Matrix priority levels using TF-IDF + Multinomial Naive Bayes. Improved accuracy from 0.41 → 0.93 over a rule-based baseline. Added DistilBART summarization for condensed previews. `Python` · `scikit-learn` · `HuggingFace`
+
+**[NEUQuest](https://github.com/Kaustubha-09/NEUQuest)** — Full-stack Android app for student event discovery and travel coordination. Firebase Realtime Database, authentication, maps integration, and push notifications. Achieved 90%+ Lighthouse scores, onboarded 200+ users. Selected as a top project at a Northeastern hackathon showcase. `Android` · `Firebase` · `Java`
+
+**[Course Scheduling via Graph Coloring](https://github.com/Kaustubha-09/CourseScheduling)** — Modeled university scheduling as a graph coloring optimization problem. Greedy and Welsh–Powell algorithms reduced simulated conflicts by 40%, improved room utilization 12%, and generated feasible schedules in under 2 seconds. `Python` · `NetworkX`
+
+**[Gender Bias in Online Images](https://github.com/Kaustubha-09/GenderBiasStudy)** — Analyzed large-scale image and text data to study gender bias across visual and linguistic modalities. Designed bias metrics comparing text embeddings vs. image representations, validated against human perception surveys. Presented at class research symposium. `Python` · `Computer Vision` · `NLP`
 
 **[Spambase](https://github.com/Kaustubha-09/Spambase)** — NLP spam classifier on 1,035 emails. 97% precision, 95% recall. `Python` · `scikit-learn` · `NLTK`
 
@@ -60,9 +79,21 @@ Led student org for PM interview prep, case practice, and mentoring. Received st
 
 ---
 
+## Certifications
+
+- **Data Science for Construction, Architecture and Engineering** — edX *(Dec. 2024)*
+- **Generative AI for Creativity and Innovation** — Adobe *(Nov. 2023)*
+- **Foundations of Cloud Computing** — Codecademy *(Feb. 2023)*
+- **Programming Essentials in Python (PCAP)** — Cisco *(Aug. 2022)*
+- **Introduction to Artificial Intelligence** — University of Helsinki *(Jul. 2022)*
+- **BIM: From Sketch to Digital Twin** — Coursera *(Mar. 2022)*
+- **Computer Applications of AI and e-Construction** — edX *(Apr. 2022)*
+
+---
+
 ## Stack
 
-`Python` `Java` `JavaScript` `TypeScript` `Swift` `Dart` · `React` `React Native` `Flutter` `FastAPI` `Node.js` · `PyTorch` `TensorFlow` `HuggingFace` `OpenAI` · `PostgreSQL` `MongoDB` `Firebase` · `Docker` `GitHub Actions` `GCP` · `WCAG AA+` `NVDA/VoiceOver`
+`Python` `Java` `JavaScript` `TypeScript` `HTML` `CSS` `Swift` `Dart` · `React` `React Native` `Flutter` `FastAPI` `Node.js` · `PyTorch` `TensorFlow` `HuggingFace` `LangChain` `OpenAI` `scikit-learn` `NumPy` `Pandas` · `PostgreSQL` `MongoDB` `Firebase` `SQLite` `Pinecone` `ChromaDB` · `Docker` `GitHub Actions` `Git` `AWS` `GCP` · `Revit` · `WCAG AA+` `NVDA/VoiceOver`
 
 ---
 
