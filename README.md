@@ -18,7 +18,7 @@ I build AI-powered systems that work for everyone — including the 2.2 billion 
 
 ## Awards
 
-- **Laurel & Scroll 100 Award**, Northeastern University *(Apr. 2026)* — Selected among top graduating students for academic achievement, leadership, and impact.
+- **Laurel & Scroll 100 Award**, Northeastern University *(Apr. 2026)* — Selected among top graduating students for academic achievement, leadership, and impact. [[Inductees]](https://distinction.northeastern.edu/laurel-and-scroll-100/laurel-and-scroll-100-inductees-2026/) [[NU News]](https://news.northeastern.edu/2026/04/15/laurel-and-scroll-100-2026-inductees/)
 - **Silicon Valley Leadership Legacy Award**, Northeastern University *(Apr. 2026)* — Recognized for leadership and contributions to the Northeastern Silicon Valley community.
 - **Khoury College Recognition (Nominee)**, Northeastern University *(2026)* — Nominated for academic excellence and contributions to Khoury College of Computer Sciences.
 - **Top Project Recognition** *(2025)* — Awarded for *RapidTriage AI* for technical depth and evaluation rigor.
@@ -29,7 +29,7 @@ I build AI-powered systems that work for everyone — including the 2.2 billion 
 ## Experience
 
 **Lead Software Engineer (AI/ML & Accessibility) — Smith-Kettlewell Eye Research Institute** *(San Francisco, CA | Jul–Jan 2026)*
-Led end-to-end engineering for [YouDescribeX](https://ydx.youdescribe.org/home), an AI-assisted audio description platform for blind & low-vision users. Shipped bi-weekly releases to 40+ users at <1% crash rate. Built Infobot (86% top-3 hit rate on 300-question benchmark), improved performance 15%, retention 20%, reduced task time 28% via usability studies, and achieved WCAG AA+ compliance. Promoted from Research Assistant.
+[Featured in Khoury College News](https://www.khoury.northeastern.edu/with-this-ai-driven-tool-blind-users-can-experience-youtube-and-tiktok-videos-too/) · Led end-to-end engineering for [YouDescribeX](https://ydx.youdescribe.org/home), an AI-assisted audio description platform for blind & low-vision users. Shipped bi-weekly releases to 40+ users at <1% crash rate. Built Infobot (86% top-3 hit rate on 300-question benchmark), improved performance 15%, retention 20%, reduced task time 28% via usability studies, and achieved WCAG AA+ compliance. Promoted from Research Assistant.
 
 **Lead AI Engineer, Data & Compliance — Evenness, Inc.** *(Atlanta, GA | May–Feb 2026)*
 Built RAG-backed agentic workflows covering 100% of WCAG 2.1 + multi-standard (EEA, ADA, AODA). Cut analysis runtime 60–70%, reduced audit cycle time 15→9 min, saved ~120 hrs/quarter. Maintained 99.9% uptime and p95 latency <300ms across 4 production microservices. Promoted from Agentic AI Engineer Intern.
