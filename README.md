@@ -29,6 +29,18 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 `Python` · `PyTorch` · `React` · `Android` · `FastAPI` · `WCAG AA+`
 
+### NEU M.S. coursework
+
+| Category | Courses |
+|---|---|
+| **Bridge** | CS 5001 Intensive Foundations of CS · CS 5002 Discrete Structures · CS 5004 Object-Oriented Design · CS 5008 Data Structures & Algorithms in Systems |
+| **Core** | CS 5800 Algorithms |
+| **Breadth** | CS 5520 Mobile Application Development · CS 5610 Web Development |
+| **AI / Systems** | CS 5100 Foundations of Artificial Intelligence · CS 6140 Machine Learning · CS 6180 Foundations of Generative AI · CS 6620 Fundamentals of Cloud Computing |
+| **Co-op** | CS 6954 Work Experience |
+
+*Focused on AI/ML, Generative AI, mobile & web development, cloud computing, and scalable system design.*
+
 ---
 
 ## Awards
