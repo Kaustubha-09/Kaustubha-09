@@ -45,7 +45,7 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 ## Awards
 
-- **Laurel & Scroll 100 Award**, Northeastern University *(Apr. 2026)* — Selected among top graduating students for academic achievement, leadership, and impact. [[Inductees]](https://distinction.northeastern.edu/laurel-and-scroll-100/laurel-and-scroll-100-inductees-2026/) [[NU News]](https://news.northeastern.edu/2026/04/15/laurel-and-scroll-100-2026-inductees/)
+- **Laurel & Scroll 100 Award**, Northeastern University *(Apr. 2026)* — Selected among top graduating students for academic achievement, leadership, and impact. [[Inductees]](https://distinction.northeastern.edu/laurel-and-scroll-100/laurel-and-scroll-100-inductees-2026/) [[NU News]](https://news.northeastern.edu/2026/04/15/laurel-and-scroll-100-2026-inductees/) [[Khoury Feature]](https://www.khoury.northeastern.edu/khoury-students-bring-in-record-awards-haul-at-2026-northeastern-convocation/)
 - **Silicon Valley Leadership Legacy Award**, Northeastern University *(Apr. 2026)* — Recognized for leadership and contributions to the Northeastern Silicon Valley community.
 - **Khoury College Recognition (Nominee)**, Northeastern University *(2026)* — Nominated for academic excellence and contributions to Khoury College of Computer Sciences.
 - **Top Project Recognition** *(2025)* — Awarded for *RapidTriage AI* for technical depth and evaluation rigor.
@@ -143,15 +143,45 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 ---
 
-## Research & Leadership
+## Leadership
 
-**[NEURAI Research Lab](https://neurai.sites.northeastern.edu/our-team/kaustubha-eluri/) — Founding Researcher** *(Mar–Dec 2025)*
-Interpretable and responsible ML research. Co-authored a proposal that secured **$2k in compute credits**. Built baseline pipelines adopted by new lab members.
+### Founding Researcher — [NEURAI Research Lab](https://neurai.sites.northeastern.edu/our-team/kaustubha-eluri/)
+*Mar 2025 – Dec 2025* · Northeastern University · San Jose, CA
+- Contributed to research on interpretable and responsible ML, implementing baseline models and reproducibility workflows.
+- Led code reviews and replication efforts, improving experiment consistency through seeded runs and standardized documentation.
 
-**APMC (Aspiring Product Managers Club) — President** *(Jan 2024–Dec 2025)*
-Led student org for PM interview prep, case practice, and mentoring. Received student leadership award 2025.
+> **Key Achievement:** co-authored a proposal that secured **$2K in compute credits** and established baseline pipelines used by new lab members.
 
-**AI/Data Club — Core Organizer** · **Adobe Creative Campus Club — VP** · **Northeastern Student Ambassador**
+### Core Organizer — AI / Data Club
+*Jan 2025 – Dec 2025* · Northeastern University · San Jose, CA
+- Organized ML study sessions and hands-on workshops covering prompt engineering and API-based model integration.
+- Coordinated internal hackathons and supported teams in shipping functional demos.
+- Built starter templates and setup guides that reduced onboarding time for new participants.
+
+> **Key Achievement:** helped grow and sustain an active peer-led ML community within Khoury College.
+
+### President — Aspiring Product Managers Club (APMC)
+*Jan 2024 – Dec 2025* · Northeastern University · San Jose, CA · [Featured · ProductCon SF ↗](https://siliconvalley.northeastern.edu/in-the-field-product-management-insights-at-productcon-sf/)
+- Led a student organization focused on PM interview prep, case practice, and peer mentoring.
+- Organized workshops and speaker events covering PRDs, user research, and product strategy fundamentals.
+- Expanded active membership and coordinated programming across multiple academic terms.
+
+> **Key Achievement:** grew APMC into a well-established campus organization; received a student leadership award in 2025.
+
+### Student Ambassador — Northeastern University
+*May 2024 – Aug 2025* · San Jose, CA
+- Represented the university at academic and community events, supporting student outreach, onboarding, and engagement.
+- Guided prospective and incoming students on academic programs, campus resources, and student life.
+- Collaborated with faculty and administrative teams to relay student feedback and improve campus experience initiatives.
+
+> **Key Achievement:** selected as campus ambassador based on leadership, communication ability, and student involvement.
+
+### Vice President — Adobe Creative Campus Club
+*Jan 2024 – May 2025* · Northeastern University · San Jose, CA
+- Led workshops introducing students to Adobe creative tools and portfolio workflows.
+- Co-organized design challenges and cross-club creative events.
+
+> **Key Achievement:** recognized by Adobe Creative Campus for student engagement initiatives.
 
 ---
 
