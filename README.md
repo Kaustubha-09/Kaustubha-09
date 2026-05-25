@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Kaustubha Eluri</h2>
   <p><strong>Mobile & AI Systems Engineer</strong> · M.S. Computer Science, Northeastern University (Silicon Valley) · U.S. Citizen · San Jose, CA</p>
-  <a href="https://kaustubha-09.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://kaustubha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kaustubha.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/kaustubha-ve/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -219,7 +219,7 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 |---|---|
 | 📧 Email | [kaustubha.ev@gmail.com](mailto:kaustubha.ev@gmail.com) |
 | 📞 Phone | [669-204-6927](tel:6692046927) |
-| 🌐 Portfolio | [kaustubha-09.github.io](https://kaustubha-09.github.io/) |
+| 🌐 Portfolio | [kaustubha.vercel.app](https://kaustubha.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/kaustubha-ve](https://linkedin.com/in/kaustubha-ve/) |
 | 📍 Location | San Jose, CA · U.S. Citizen |
 
