@@ -24,7 +24,7 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 | Education | |
 |---|---|
-| **Northeastern University** | M.S. Computer Science · 2023–2025 |
+| **Northeastern University** | M.S. Computer Science · 2023–2026 |
 | **JNAFAU** | B.Tech Architectural Engineering · 2017–2021 |
 
 `Python` · `PyTorch` · `React` · `Android` · `FastAPI` · `WCAG AA+`
