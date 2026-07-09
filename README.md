@@ -105,7 +105,7 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 ## Projects
 
-> **13 projects · all live on GitHub with full READMEs, ADRs, docs/, and CI**
+> **15 projects · all live on GitHub with full READMEs, ADRs, docs/, and CI**
 
 ### Cross-platform Mobile & AI
 
@@ -119,11 +119,15 @@ Now, I'm a **Mobile & AI Systems Engineer** focused on building production-ready
 
 ### AI / ML Systems
 
+**[LifeLaw](https://github.com/Kaustubha-09/legal-impact-ai)** *(Jul. 2026)* — Personalized legal-intelligence platform pulling live federal (Congress.gov) and state (LegiScan, all 50 states + DC) bill feeds, auto-tagged against a user's profile. **Hallucination-free Q&A**: answers are assembled from retrieved structured fields via local sentence-transformer + pgvector retrieval, not LLM-generated text. Weekly Resend email digest with HTML-escaping on all upstream bill content before it reaches an inbox. `Next.js 15 · FastAPI · PostgreSQL · pgvector · sentence-transformers`
+
+**[ResumeForge](https://github.com/Kaustubha-09/resume-forge)** *(Jul. 2026)* — Resume-tailoring tool that generates ATS-ready one-page drafts from a single saved master resume, instructed to draw only from real experience — no invented metrics or titles. Dual LLM backends (local Ollama for privacy, opt-in Groq for ~3s generation) switch automatically on API-key presence. Server-side PDF export via Tectonic. `Next.js 15 · TypeScript · Ollama · Groq · Tectonic`
+
 **[RapidTriage](https://github.com/Kaustubha-09/RapidTriage)** — Emergency triage shouldn't require typing. Cross-platform medical app with voice input, GPS hospital discovery, and hybrid AI (LLM symptom parsing + MTS/ESI-inspired clinical rules). Assesses emergencies in ~3.7s. **Safety-biased fallback to YELLOW (Urgent)** on low classifier confidence — Type-II error is much worse than Type-I in triage. `React Native (Expo) · Go · Gemini / Claude / OpenAI multi-provider`
 
 **[Echolin.ai](https://github.com/Kaustubha-09/Echolin.ai)** — Deepfake detection is only useful if it's explainable. React 19 + Flask + PyTorch Vision Transformer pipeline classifies images & videos with optional LLM explanation; **`artifacts` field honestly called out as synthetic** because the base ViT is binary-only. Supabase auth with row-level security on every table. `React 19 · Flask · PyTorch ViT · Supabase`
 
-**[SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)** — Frame-by-frame video prompting is redundant. Designed a semantic-diff prompting framework for Vision-Language Models that describes only what *changed* between consecutive frames. **50–70% token reduction** vs. baseline on a 141-video action dataset, with tiktoken-accurate measurement and 18 no-network unit tests. `Python · GPT-4o · tiktoken`
+**[SemanticVideoUnderstanding](https://github.com/Kaustubha-09/SemanticVideoUnderstanding)** *(Sep. 2025 -- Dec. 2025)* — Frame-by-frame video prompting is redundant. Designed a semantic-diff prompting framework for Vision-Language Models that describes only what *changed* between consecutive frames. **50–70% token reduction** vs. baseline on a 141-video action dataset, with tiktoken-accurate measurement and 18 no-network unit tests. `Python · GPT-4o · tiktoken`
 
 **[patient-intake-agent](https://github.com/Kaustubha-09/patient-intake-agent)** — Terminal AI agent for patient intake & scheduling: GPT-4o drives the conversation, deterministic Python tools own every data-bearing operation (Google Maps Geocoding, urgency-policy provider ranking). **Two-layer emergency gate** (system-prompt directive + tool-layer refusal) so the 911 escalation is unbypassable. `--demo` mode shares the production tool layer. `Python 3.12 · GPT-4o · Google Maps Geocoding`
 
